@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_BinarySerialization", "00_BinarySerialization\00_BinarySerialization.csproj", "{636361AC-8B2B-4F26-AF48-74B58449457C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_XMLSerialization", "01_XMLSerialization\01_XMLSerialization.csproj", "{3D6AC04A-5BB0-4BA5-AEDB-B12596F914F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_JSONSerialization", "02_JSONSerialization\02_JSONSerialization.csproj", "{4F13C9E3-9366-4E2E-8EEB-897DF4A3F9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Protobuf-net", "03_Protobuf-net\03_Protobuf-net.csproj", "{8C33767E-AD00-40E9-95D9-A88819716E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636361AC-8B2B-4F26-AF48-74B58449457C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636361AC-8B2B-4F26-AF48-74B58449457C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636361AC-8B2B-4F26-AF48-74B58449457C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636361AC-8B2B-4F26-AF48-74B58449457C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6AC04A-5BB0-4BA5-AEDB-B12596F914F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6AC04A-5BB0-4BA5-AEDB-B12596F914F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6AC04A-5BB0-4BA5-AEDB-B12596F914F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6AC04A-5BB0-4BA5-AEDB-B12596F914F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F13C9E3-9366-4E2E-8EEB-897DF4A3F9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F13C9E3-9366-4E2E-8EEB-897DF4A3F9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F13C9E3-9366-4E2E-8EEB-897DF4A3F9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F13C9E3-9366-4E2E-8EEB-897DF4A3F9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C33767E-AD00-40E9-95D9-A88819716E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C33767E-AD00-40E9-95D9-A88819716E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C33767E-AD00-40E9-95D9-A88819716E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C33767E-AD00-40E9-95D9-A88819716E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
