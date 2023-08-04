@@ -1,5 +1,4 @@
-﻿using System.IO;
-using ProtoBuf;
+﻿using ProtoBuf;
 
 [ProtoContract]
 public class Person

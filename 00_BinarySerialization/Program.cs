@@ -2,7 +2,6 @@
 using System.Runtime.Serialization.Formatters.Binary;
 
 // Attribute to mark it as serializable
-// Serialization is the process of converting an object's state (data) into a format that can be stored or transmitted. This is useful for saving data to a file, sending it over a network, or working with different data formats like XML or JSON.
 [Serializable]
 public class Person
 {
@@ -16,14 +15,14 @@ class Program
 	{
 		Person person = new Person { Name = "Alice", Age = 10 };
 
-		// Serialize the object
+		// Serialize
 		BinaryFormatter formatter = new BinaryFormatter();
 		using (FileStream stream = new FileStream("person.bin", FileMode.Create))
 		{
 			formatter.Serialize(stream, person);
 		}
 
-		// Deserialize the object
+		// Deserialize
 		Person deserializedPerson;
 		using (FileStream stream = new FileStream("person.bin", FileMode.Open))
 		{
