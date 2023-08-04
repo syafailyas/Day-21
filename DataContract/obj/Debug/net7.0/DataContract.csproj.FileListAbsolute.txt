@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 21\DataContract\bin\Debug\net7.0\DataContract.exe
+c:\C#\Bootcamp\vscode\Day 21\DataContract\bin\Debug\net7.0\DataContract.deps.json
+c:\C#\Bootcamp\vscode\Day 21\DataContract\bin\Debug\net7.0\DataContract.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 21\DataContract\bin\Debug\net7.0\DataContract.dll
+c:\C#\Bootcamp\vscode\Day 21\DataContract\bin\Debug\net7.0\DataContract.pdb
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.dll
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\refint\DataContract.dll
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.pdb
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\DataContract.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 21\DataContract\obj\Debug\net7.0\ref\DataContract.dll

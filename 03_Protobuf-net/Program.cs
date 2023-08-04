@@ -4,10 +4,10 @@
 public class Person
 {
     [ProtoMember(1)]
-    public string Name { get; set; }
+    public string Name { private get; set; }
 
     [ProtoMember(2)]
-    public int Age { get; set; }
+    public  int Age { private get; set; }
 }
 
 class Program
@@ -29,6 +29,6 @@ class Program
             deserializedPerson = Serializer.Deserialize<Person>(stream);
         }
 
-        Console.WriteLine($"Deserialized Person: {deserializedPerson.Name}, {deserializedPerson.Age}");
+        //Console.WriteLine($"Deserialized Person: {deserializedPerson.Name}, {deserializedPerson.Age}");
     }
 }
