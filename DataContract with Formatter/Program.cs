@@ -40,9 +40,6 @@ class Program
 {
     static void Main()
     {
-        DataContractJsonSerializerSettings settings = new DataContractJsonSerializerSettings
-        { UseSimpleDictionaryFormat = true };
-
         var p = new Person("ZJohn", 123, Code.Error);
         var p2 = new Person("Yusuf", 444, Code.Safe);
         List<Person> people = new();
