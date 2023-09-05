@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rVFDATMteUhqyKFBsn6w+zu4D4SeKrTTYjTyI3Uf3r1lMtijhOJIzfSoc+J3IuUmumsLACUIufHBnMLRp1oZeA==",
+  "dgSpecHash": "o8QuYv9Dou/+n8xZ+6HzYU5jncxh4ii+vURLM4dDcYPxTJh8Qfk9rRXBJ9voOaTH6yJgEXDhmonvyOhTCx2zFA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\01_XMLSerialization.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\01_XMLSerialization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

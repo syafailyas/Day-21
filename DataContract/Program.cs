@@ -1,8 +1,10 @@
 ﻿using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
-public enum Code 
+using Newtonsoft.Json;
+public enum Code
 {
 	Safe = 0,
+	Error = 1
 }
 [DataContract]
 public class Person
@@ -33,13 +35,16 @@ class Program
 {
 	static void Main()
 	{
-		var p = new Person("John", 123, Code.Safe);
-		var p2 = new Person("Yusuf", 444,Code.Safe);
+		DataContractJsonSerializerSettings Settings = new DataContractJsonSerializerSettings
+			{ UseSimpleDictionaryFormat = true };
+
+		var p = new Person("John", 123, Code.Error);
+		var p2 = new Person("Yusuf", 444, Code.Safe);
 		List<Person> people = new();
 		people.Add(p);
 		people.Add(p2);
 
-		var ser = new DataContractJsonSerializer(typeof(List<Person>));
+		DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<Person>), Settings);
 		using (FileStream stream = new FileStream("person.json", FileMode.OpenOrCreate))
 		{
 			ser.WriteObject(stream, people);
@@ -48,7 +53,7 @@ class Program
 		List<Person> importPerson;
 		using (FileStream stream2 = new FileStream("person.json", FileMode.OpenOrCreate))
 		{
-			importPerson = (List<Person>)ser?.ReadObject(stream2);
+			importPerson = (List<Person>)ser.ReadObject(stream2);
 		}
 
 		foreach (var person in importPerson)

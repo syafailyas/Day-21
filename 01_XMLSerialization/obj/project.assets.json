@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\01_XMLSerialization.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\01_XMLSerialization.csproj",
       "projectName": "01_XMLSerialization",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\01_XMLSerialization.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\01_XMLSerialization.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01_XMLSerialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

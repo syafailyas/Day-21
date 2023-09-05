@@ -2,7 +2,7 @@
 
 public class Person
 {
-	public string Name { get; set; }
+	public string? Name { get; set; }
 	public int Age { get; set; }
 }
 
@@ -18,10 +18,10 @@ class Program
 
 		// Serialize the list
 		XmlSerializer serializer = new XmlSerializer(typeof(List<Person>));
-		using (StreamWriter writer = new StreamWriter("person.xml"))
-		{
-			serializer.Serialize(writer, people);
-		}
+		// using (StreamWriter writer = new StreamWriter("person.xml"))
+		// {
+		// 	serializer.Serialize(writer, people);
+		// }
 
 		using (StreamReader reader = new StreamReader("person.xml"))
 		{

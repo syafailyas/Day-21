@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z9PNQ6wCsdfL2bVx2zZMPJcrrYYnqtdmH3MLTGVCnCLSBmf5SjxWKbje9LLxI3mYw18lyk3KH10LppEkRP8RdQ==",
+  "dgSpecHash": "I36H1qYX+hlTQS7i0TVLrf3dUvuXURwECwhaQB/wY+5+tXsXJTwbi6FqTgZW8OQbQFax5wCBMyEiknPJfdrEjg==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

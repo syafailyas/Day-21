@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4I52v14Et5PV9/YhzfV/mVDbWMU0/hVCFX4gfOcrm8QD8jDIbdlOQyl4j868bnJTqLpFfeoLm01c3arjfD+9Lg==",
+  "dgSpecHash": "0BTsyCXrC+DhxtO4SnUzCuDSYt3fRvBliETGa6rJwuitBX6aG4sfY4O1ir6UoFVGYUVBBxt7mNImZNrAx1Ap9w==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

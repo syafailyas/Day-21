@@ -1,7 +1,6 @@
 ﻿using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-// Attribute to mark it as serializable
 [Serializable]
 public class Person
 {
@@ -15,18 +14,16 @@ class Program
 	{
 		Person person = new Person { Name = "Alice", Age = 10 };
 
-		// Serialize
 		BinaryFormatter formatter = new BinaryFormatter();
 		using (FileStream stream = new FileStream("person.bin", FileMode.Create))
 		{
 			formatter.Serialize(stream, person);
 		}
 
-		// Deserialize
 		Person deserializedPerson;
 		using (FileStream stream = new FileStream("person.bin", FileMode.Open))
 		{
-			deserializedPerson = (Person)formatter.Deserialize(stream);
+			deserializedPerson = (Person)formatter.Deserialize(stream);  //unboxing
 		}
 
 		Console.WriteLine($"Deserialized Person: {deserializedPerson.Name}, {deserializedPerson.Age}");

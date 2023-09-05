@@ -1,5 +1,5 @@
-c:\C#\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.csproj.AssemblyReference.cache
-c:\C#\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
-c:\C#\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.AssemblyInfoInputs.cache
-c:\C#\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.AssemblyInfo.cs
-c:\C#\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.csproj.CoreCompileInputs.cache

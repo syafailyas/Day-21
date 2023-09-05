@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "L5h8N+9Ll/oas4S9fbKn0jtGPu70HxJnd6R8cdijxkoKdsJUWknlffaA2hlyr/q1aYiwnU/v7v7zpSNsh7dJdg==",
+  "dgSpecHash": "EzsKtGJdJO4p4Eh3n3+dcYFwaikRni+J2t3WYvWAyIY4O6zuCyvQ38GNFFvxwues3PiudzoJCsemtx9TQJco6g==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

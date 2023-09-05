@@ -9,5 +9,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Program.cs" />
+    <Content Include="person.xml" />
   </ItemGroup>
 </Project>

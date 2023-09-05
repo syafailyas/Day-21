@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj",
         "projectName": "DataContract",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\DataContract\\DataContract.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\DataContract\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\DataContract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -16,10 +16,10 @@ class Program
 			new Person { Name = "Alice", Age = 30 }
 		};
 		string jsonString = JsonSerializer.Serialize(people);
-		// using (StreamWriter writer = new StreamWriter("person.json"))
-		// {
-		// 	writer.Write(jsonString);
-		// }
+		using (StreamWriter writer = new StreamWriter("person.json"))
+		{
+			writer.Write(jsonString);
+		}
 
 		string jsonFromFile;
 		using (StreamReader reader = new StreamReader("person.json"))

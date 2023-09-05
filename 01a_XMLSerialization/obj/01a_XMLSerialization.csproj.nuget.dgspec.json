@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
         "projectName": "01a_XMLSerialization",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

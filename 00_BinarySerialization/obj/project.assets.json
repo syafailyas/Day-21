@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
       "projectName": "00_BinarySerialization",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
