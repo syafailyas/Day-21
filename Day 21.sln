@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01a_XMLSerialization", "01a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContract", "DataContract\DataContract.csproj", "{941B2A3C-4391-47C8-B79D-B23D4B9A8131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContractWithFormatter", "DataContract with Formatter\DataContractWithFormatter.csproj", "{37186E4C-1CFE-47E1-9F65-031F2C25669C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{941B2A3C-4391-47C8-B79D-B23D4B9A8131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941B2A3C-4391-47C8-B79D-B23D4B9A8131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941B2A3C-4391-47C8-B79D-B23D4B9A8131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

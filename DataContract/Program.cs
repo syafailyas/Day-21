@@ -35,23 +35,20 @@ class Program
 {
 	static void Main()
 	{
-		DataContractJsonSerializerSettings Settings = new DataContractJsonSerializerSettings
-			{ UseSimpleDictionaryFormat = true };
-
-		var p = new Person("John", 123, Code.Error);
+		var p = new Person("ZJohn", 123, Code.Error);
 		var p2 = new Person("Yusuf", 444, Code.Safe);
 		List<Person> people = new();
 		people.Add(p);
 		people.Add(p2);
 
-		DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<Person>), Settings);
+		DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<Person>));
 		using (FileStream stream = new FileStream("person.json", FileMode.OpenOrCreate))
 		{
 			ser.WriteObject(stream, people);
 		}
 
 		List<Person> importPerson;
-		using (FileStream stream2 = new FileStream("person.json", FileMode.OpenOrCreate))
+		using (FileStream stream2 = new FileStream("person.json", FileMode.Open))
 		{
 			importPerson = (List<Person>)ser.ReadObject(stream2);
 		}
