@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
         "projectName": "00_BinarySerialization",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

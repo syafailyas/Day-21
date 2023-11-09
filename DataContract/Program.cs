@@ -1,6 +1,5 @@
 ﻿using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
-using Newtonsoft.Json;
 public enum Code
 {
 	Safe = 0,
@@ -17,14 +16,14 @@ public class Person
 
 	[DataMember]
 	private Code code;
-
+	
 	public Person(string name, int age, Code code)
 	{
 		this.name = name;
 		this.age = age;
 		this.code = code;
 	}
-
+	
 	public string GetName()
 	{
 		return name + " " + (int)code;

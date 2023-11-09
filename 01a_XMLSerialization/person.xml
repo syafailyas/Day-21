@@ -8,12 +8,4 @@
     <Name>Alice</Name>
     <Age>30</Age>
   </Person>
-    <Person>
-    <Name>Azis</Name>
-    <Age>22</Age>
-  </Person>
-    <Person>
-    <Name>Shely</Name>
-    <Age>22</Age>
-  </Person>
 </ArrayOfPerson>

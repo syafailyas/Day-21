@@ -4,6 +4,7 @@ public class Person
 {
 	public string Name { get; set; }
 	public int Age { get; set; }
+
 }
 
 class Program
@@ -11,7 +12,7 @@ class Program
 	static void Main(string[] args)
 	{
 		//Serialize
-		Person person = new Person { Name = "Charlie", Age = 12 };
+		Person person = new Person { Name = "Charlie", Age = 122 };
 		
 		string jsonString = JsonSerializer.Serialize(person);
 		using (StreamWriter writer = new StreamWriter("person.json"))

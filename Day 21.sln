@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContract", "DataContrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContractWithFormatter", "DataContract with Formatter\DataContractWithFormatter.csproj", "{37186E4C-1CFE-47E1-9F65-031F2C25669C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryXML", "DictionaryXML\DictionaryXML.csproj", "{32B654E9-62F3-46B7-85F1-3EBCD0DE545E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonSoftSerializer", "NewtonSoftSerializer\NewtonSoftSerializer.csproj", "{0AAD51B2-7075-4D78-B119-04273D49F52B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37186E4C-1CFE-47E1-9F65-031F2C25669C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B654E9-62F3-46B7-85F1-3EBCD0DE545E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B654E9-62F3-46B7-85F1-3EBCD0DE545E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B654E9-62F3-46B7-85F1-3EBCD0DE545E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B654E9-62F3-46B7-85F1-3EBCD0DE545E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AAD51B2-7075-4D78-B119-04273D49F52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAD51B2-7075-4D78-B119-04273D49F52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAD51B2-7075-4D78-B119-04273D49F52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAD51B2-7075-4D78-B119-04273D49F52B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

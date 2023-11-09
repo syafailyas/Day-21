@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj",
         "projectName": "02_JSONSerialization",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\02_JSONSerialization.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\02_JSONSerialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
