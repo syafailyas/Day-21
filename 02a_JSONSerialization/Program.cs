@@ -15,19 +15,23 @@ class Program
 			new Person { Name = "Charlie", Age = 12 },
 			new Person { Name = "Alice", Age = 30 }
 		};
+
 		string jsonString = JsonSerializer.Serialize(people);
-		using (StreamWriter writer = new StreamWriter("person.json"))
+
+		using ( StreamWriter writer = new StreamWriter("person.json") )
 		{
 			writer.Write(jsonString);
 		}
 
 		string jsonFromFile;
-		using (StreamReader reader = new StreamReader("person.json"))
+
+		using ( StreamReader reader = new StreamReader("person.json") )
 		{
 			jsonFromFile = reader.ReadToEnd();
 		}
-		
+
 		List<Person> deserializedPeople = JsonSerializer.Deserialize<List<Person>>(jsonFromFile);
+
 		foreach (var person in deserializedPeople)
 		{
 			Console.WriteLine($"Deserialized Person: {person.Name}, {person.Age}");

@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 21\02_JSONSerialization\obj\Debug\net7.0\refint\02
 c:\CSharp\Bootcamp\vscode\Day 21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.pdb
 c:\CSharp\Bootcamp\vscode\Day 21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 21\02_JSONSerialization\obj\Debug\net7.0\ref\02_JSONSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\bin\Debug\net7.0\02_JSONSerialization.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\bin\Debug\net7.0\02_JSONSerialization.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\bin\Debug\net7.0\02_JSONSerialization.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\bin\Debug\net7.0\02_JSONSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\bin\Debug\net7.0\02_JSONSerialization.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\refint\02_JSONSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\02_JSONSerialization.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\02_JSONSerialization\obj\Debug\net7.0\ref\02_JSONSerialization.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {}
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\01a_XMLSerialization\\01a_XMLSerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
         "projectName": "01a_XMLSerialization",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\01a_XMLSerialization\\obj\\",
+        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\01a_XMLSerialization\\01a_XMLSerialization.csproj",
+        "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\01a_XMLSerialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

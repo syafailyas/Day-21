@@ -5,7 +5,6 @@ public class Person
 	public string Name { get; set; }
 	public int Age { get; set; }
 	public List<string> myList { get; set; }
-
 }
 
 public class MyCar
@@ -13,35 +12,40 @@ public class MyCar
 	public string Name { get; set; }
 	public int Age { get; set; }
 	public List<string> myList { get; set; }
-
 }
 
 class Program
 {
 	static void Main(string[] args)
 	{
-		//Serialize
-		Person person = new Person { Name = "Charlie", Age = 122 , myList = new List<string>() 
+		// Serialize
+		Person person = new Person
 		{
-			"hello",
-			"test"
-		}};
-		
+			Name = "Charlie",
+			Age = 122 ,
+			myList = new List<string>() 
+			{
+				"hello",
+				"test"
+			}
+		};
+
 		string jsonString = JsonSerializer.Serialize(person);
-		using (StreamWriter writer = new StreamWriter("person.json"))
+
+		using ( StreamWriter writer = new StreamWriter("person.json") )
 		{
 			writer.Write(jsonString);
 		}
 
-
-		//Deserialize
+		// Deserialize
 		string jsonFromFile;
-		using (StreamReader reader = new StreamReader("person.json"))
+
+		using ( StreamReader reader = new StreamReader("person.json") )
 		{
 			jsonFromFile = reader.ReadToEnd();
 		}
-		MyCar? deserializedPerson = JsonSerializer.Deserialize<MyCar>(jsonFromFile);
 
+		MyCar? deserializedPerson = JsonSerializer.Deserialize<MyCar>(jsonFromFile);
 		Console.WriteLine($"Deserialized Person: {deserializedPerson.Name}, {deserializedPerson.Age}");
 	}
 }

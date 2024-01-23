@@ -5,7 +5,6 @@ public class Person
 {
 	public string? Name { get; set; }
 	public int Age { get; set; }
-
 }
 
 class Program
@@ -22,23 +21,24 @@ class Program
 		// }
 
 		List<Person> deserializedPerson;
-		using (StreamReader reader = new StreamReader("person.xml"))
+
+		using ( StreamReader reader = new StreamReader("person.xml") )
 		{
 			deserializedPerson = (List<Person>)serializer.Deserialize(reader);
 		}
+
 		foreach (var i in deserializedPerson)
 		{
 			Console.WriteLine(i.Name);
 			Console.WriteLine(i.Age);
 		}
 
-
-		//Console.WriteLine($"Deserialized Person: {deserializedPerson?.Name}, {deserializedPerson.Age}");
+		// Console.WriteLine($"Deserialized Person: {deserializedPerson?.Name}, {deserializedPerson.Age}");
 	}
 }
 
-class GameConfig {}
-class DisplayConfig {}
+class GameConfig { }
+class DisplayConfig { }
 class EmailConfig { }
 
 class Configuration 

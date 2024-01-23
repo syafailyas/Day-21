@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\refint\01
 c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.pdb
 c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\ref\01a_XMLSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\refint\01a_XMLSerialization.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-21\01a_XMLSerialization\obj\Debug\net7.0\ref\01a_XMLSerialization.dll

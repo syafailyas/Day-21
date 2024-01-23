@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj": {}
+    "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\00_BinarySerialization\\00_BinarySerialization.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj": {
+    "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\00_BinarySerialization\\00_BinarySerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\00_BinarySerialization\\00_BinarySerialization.csproj",
         "projectName": "00_BinarySerialization",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\00_BinarySerialization.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\00_BinarySerialization\\obj\\",
+        "projectPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\00_BinarySerialization\\00_BinarySerialization.csproj",
+        "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\00_BinarySerialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

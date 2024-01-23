@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\03_Protobuf-net\\03_Protobuf-net.csproj": {}
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\03_Protobuf-net\\03_Protobuf-net.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\03_Protobuf-net\\03_Protobuf-net.csproj": {
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\03_Protobuf-net\\03_Protobuf-net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\03_Protobuf-net\\03_Protobuf-net.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\03_Protobuf-net\\03_Protobuf-net.csproj",
         "projectName": "03_Protobuf-net",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\03_Protobuf-net\\03_Protobuf-net.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 21\\03_Protobuf-net\\obj\\",
+        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\03_Protobuf-net\\03_Protobuf-net.csproj",
+        "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-21\\03_Protobuf-net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
