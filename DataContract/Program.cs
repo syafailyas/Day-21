@@ -40,16 +40,16 @@ class Program
 		people.Add(p);
 		people.Add(p2);
 
-		DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<Person>));
+		DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(List<Person>));
 		using (FileStream stream = new FileStream("person.json", FileMode.OpenOrCreate))
 		{
-			ser.WriteObject(stream, people);
+			serializer.WriteObject(stream, people);
 		}
 
 		List<Person> importPerson;
 		using (FileStream stream2 = new FileStream("person.json", FileMode.Open))
 		{
-			importPerson = (List<Person>)ser.ReadObject(stream2);
+			importPerson = (List<Person>)serializer.ReadObject(stream2);
 		}
 
 		foreach (var person in importPerson)

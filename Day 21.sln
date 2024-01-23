@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContractWithFormatter",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryXML", "DictionaryXML\DictionaryXML.csproj", "{32B654E9-62F3-46B7-85F1-3EBCD0DE545E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonSoftSerializer", "NewtonSoftSerializer\NewtonSoftSerializer.csproj", "{0AAD51B2-7075-4D78-B119-04273D49F52B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

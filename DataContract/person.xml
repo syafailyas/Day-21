@@ -1,0 +1,1 @@
+<ArrayOfPerson xmlns="http://schemas.datacontract.org/2004/07/" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Person><age>123</age><code>Error</code><name>ZJohn</name></Person><Person><age>444</age><code>Safe</code><name>Yusuf</name></Person></ArrayOfPerson>
