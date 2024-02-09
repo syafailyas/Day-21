@@ -14,6 +14,7 @@ class Program
 	static void Main(string[] args)
 	{
 		Person person = new Person { Name = "Alice", Age = 10 };
+
 		BinaryFormatter formatter = new BinaryFormatter();
 
 		using ( FileStream stream = new FileStream("person.bin", FileMode.Create) )
